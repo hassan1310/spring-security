@@ -1,1 +1,1 @@
-# spring-security
+This repo is for practicing spring security techniques
