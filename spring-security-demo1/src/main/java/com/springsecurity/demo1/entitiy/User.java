@@ -1,4 +1,4 @@
-package com.springsecurity.demo.entitiy;
+package com.springsecurity.demo1.entitiy;
 
 
 public class User {

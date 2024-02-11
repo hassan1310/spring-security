@@ -1,4 +1,5 @@
-package com.springsecurity.demo.config;
+/*
+package com.springsecurity.demo1.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -31,3 +32,4 @@ public class BasicSecurityConfig {
         return NoOpPasswordEncoder.getInstance();
     }
 }
+*/
